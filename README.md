@@ -1,2 +1,2 @@
 # SDE-Sheet_Striver
-What is Striver SDE Sheet? -----> SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures &amp; Algorithms.
+Striver's SDE Sheet contains very handily crafted and picked top coding interview questions from different topics of Data Structures &amp; Algorithms.
