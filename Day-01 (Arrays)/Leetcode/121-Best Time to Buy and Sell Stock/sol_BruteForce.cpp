@@ -5,6 +5,7 @@ public:
     int maxProfit(vector<int>& prices) {
 
         // BRUTE FORCE APPROACH 
+        // Time Complexity : O(N^2)
 
         
 
